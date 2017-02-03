@@ -11,5 +11,30 @@
   },
   "scripts": {
     "test": "mocha"
-  }
+  },
+  "name": "same-width",
+  "description": "This library can be used to dynamically ensure all elements of a given CSS selector are rendered at the same width.",
+  "version": "0.1.0",
+  "main": "SameWidth.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davejtoews/same-width.git"
+  },
+  "keywords": [
+    "layout",
+    "queue",
+    "window",
+    "resize",
+    "same",
+    "width"
+  ],
+  "author": "Dave Toews <davejtoews@gmail.com> (http://davejtoews.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davejtoews/same-width/issues"
+  },
+  "homepage": "https://github.com/davejtoews/same-width#readme"
 }
