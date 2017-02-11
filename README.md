@@ -16,7 +16,7 @@ OR
 
 Then require this module within your javascript:
 
-    var SameWidth = require('../SameWidth.js');
+    var SameWidth = require('same-width');
 
 ## Basic Use
 
