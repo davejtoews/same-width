@@ -14,7 +14,7 @@
   },
   "name": "same-width",
   "description": "This library can be used to dynamically ensure all elements of a given CSS selector are rendered at the same width.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "SameWidth.js",
   "directories": {
     "test": "test"
